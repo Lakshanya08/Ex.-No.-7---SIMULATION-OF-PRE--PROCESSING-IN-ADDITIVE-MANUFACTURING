@@ -45,8 +45,9 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+
+### Name: Lakshanya N
+### Register Number: 24900253
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
